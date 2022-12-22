@@ -1,0 +1,122 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3665024, 2018-10-31T22:35:55-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * You may obtain a valid license at the URLs below.
+ *
+ * Webfont: HelveticaNeueLTStd-UltLt by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-25-ultra-light-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-UltLtIt by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-26-ultra-light-italic-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-Th by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-35-thin-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-ThIt by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-36-thin-italic-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-Lt by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-45-light-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-LtIt by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-46-light-italic-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-Roman by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-55-roman-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-It by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-56-italic-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-Md by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-65-medium-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-MdIt by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-66-medium-italic-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-Bd by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-75-bold-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-BdIt by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-76-bold-italic-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-Hv by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-85-heavy-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-HvIt by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-86-heavy-italic-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-Blk by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-95-black-189171/
+ *
+ * Webfont: HelveticaNeueLTStd-BlkIt by Linotype
+ * URL: https://www.myfonts.com/linotype/neue-helvetica/pro-96-black-italic-189171/
+ *
+ *
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3665024
+ * Licensed pageviews: 25,000,000
+ * Webfonts copyright: Copyright &#x00A9; 2014 Monotype Imaging Inc. All rights reserved.
+ *
+ * © 2018 MyFonts Inc
+*/
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/37ec80");
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-weight: 100;
+  src: url("37EC80_0_0.eot");
+  src: url("37EC80_0_0.eot?#iefix") format('embedded-opentype'),url('37EC80_0_0.woff2') format('woff2'),url('37EC80_0_0.woff') format('woff'),url('37EC80_0_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-weight: 200;
+  src: url("37EC80_2_0.eot");
+  src: url("37EC80_2_0.eot?#iefix") format('embedded-opentype'),url('37EC80_2_0.woff2') format('woff2'),url('37EC80_2_0.woff') format('woff'),url('37EC80_2_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-weight: 300;
+  src: url("37EC80_4_0.eot");
+  src: url("37EC80_4_0.eot?#iefix") format('embedded-opentype'),url('37EC80_4_0.woff2') format('woff2'),url('37EC80_4_0.woff') format('woff'),url('37EC80_4_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-weight: 400;
+  src: url("37EC80_6_0.eot");
+  src: url("37EC80_6_0.eot?#iefix") format('embedded-opentype'),url('37EC80_6_0.woff2') format('woff2'),url('37EC80_6_0.woff') format('woff'),url('37EC80_6_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-weight: 500;
+  src: url("37EC80_8_0.eot");
+  src: url("37EC80_8_0.eot?#iefix") format('embedded-opentype'),url('37EC80_8_0.woff2') format('woff2'),url('37EC80_8_0.woff') format('woff'),url('37EC80_8_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-weight: 700;
+  src: url("37EC80_A_0.eot");
+  src: url("37EC80_A_0.eot?#iefix") format('embedded-opentype'),url('37EC80_A_0.woff2') format('woff2'),url('37EC80_A_0.woff') format('woff'),url('37EC80_A_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-weight: 800;
+  src: url("37EC80_C_0.eot");
+  src: url("37EC80_C_0.eot?#iefix") format('embedded-opentype'),url('37EC80_C_0.woff2') format('woff2'),url('37EC80_C_0.woff') format('woff'),url('37EC80_C_0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  font-weight: 900;
+  src: url("37EC80_E_0.eot");
+  src: url("37EC80_E_0.eot?#iefix") format('embedded-opentype'),url('37EC80_E_0.woff2') format('woff2'),url('37EC80_E_0.woff') format('woff'),url('37EC80_E_0.ttf') format('truetype');
+}
