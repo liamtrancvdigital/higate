@@ -17,9 +17,5 @@ export default createStore({
     blog,
     blogSticky
   },
-  getters: {
-    getBlog: (state) => {return state.blog.items},
-    getBlogSticky: (state) => {return state.blogSticky.items},
-  },
   modules: {},
 })
