@@ -101,7 +101,8 @@
             class="flex md:justify-start w-[343px] h-[297px] md:max-w-[552px] md:max-h-[478px] xl2:w-[552px] xl2:h-[478px] relative">
             <img
               src="https://images.ctfassets.net/zml4qel2k312/5th81whgN7OLtl3oamtRwN/e15e7e89bbe37c32cf3da23c62cb0b90/hiring1.png"
-              alt=""></div>
+              alt="">
+          </div>
         </div>
         <div
           class="grid grid-cols-1 md:grid-cols-2 md:gap-x-14 pb-[48px] xl2:grid-cols-4 xl2:gap-x-6 md:pb-[69px] px-4 md:px-0">
@@ -146,7 +147,8 @@
         class="order-last justify-self-center md:justify-self-start md:order-first xl2:max-w-[512px] 1920:max-w-[543px] self-center">
         <img
           src="https://images.ctfassets.net/zml4qel2k312/K6tBqUmZvqjQfavTOEbSZ/a26debb2e6140bd751eefe41d4d33acc/Group12.png"
-          alt=""></div>
+          alt="">
+      </div>
       <div class="md:max-w-[560px] flex flex-col ml-0 1920:pl-[30px]">
         <div class="mb-8">
           <div
@@ -206,7 +208,7 @@
                 <div class="flex text-center text-[42px] font-bold leading-[50.4px] mb-2 font-OpenSans">
                   <div>
                     <p class="font-OpenSans">
-                    20
+                      20
                     </p>
                   </div> +
                 </div>
@@ -216,7 +218,7 @@
                 <div class="flex text-center text-[42px] font-bold leading-[50.4px] mb-2 font-OpenSans">
                   <div>
                     <p class="font-OpenSans">
-                    100
+                      100
                     </p>
                   </div> +
                 </div>
@@ -226,7 +228,7 @@
                 <div class="flex justify-center text-center text-[42px] font-bold leading-[50.4px] mb-2 font-OpenSans">
                   <div>
                     <p class="font-OpenSans">
-                    5
+                      5
                     </p>
                   </div> +
                 </div>

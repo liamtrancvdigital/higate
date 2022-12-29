@@ -148,7 +148,7 @@
 </template>
 <script>
 export default {
-  name: 'FooterMain',
+  name: 'FooterDefault',
 }
 </script>
 <style>
