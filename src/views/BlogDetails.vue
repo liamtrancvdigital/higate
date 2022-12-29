@@ -100,7 +100,13 @@ export default {
     },
     async getData() {
       var data = await this.$store.state.blog.then(response => {return response.items});
+      var data2 = await this.$store.state.blogSticky.then(response => {return response.items});
       data.forEach(element => {
+        if(element.sys.id == this.id) {
+          this.dataBlog = element;
+        }
+      });
+      data2.forEach(element => {
         if(element.sys.id == this.id) {
           this.dataBlog = element;
         }
