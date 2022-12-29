@@ -79,7 +79,7 @@ export default {
   props: ["id"],
   data() {
     return {
-      dataBlog: {},
+      dataBlog: [],
     };
   },
   mounted() {
@@ -100,11 +100,11 @@ export default {
     },
     async getData() {
       var data = await this.$store.state.blog.then(response => {return response.items});
-      for(var post in data) {
-        if(post.sys.id == this.id) {
-          this.dataBlog = post;
+      data.forEach(element => {
+        if(element.sys.id == this.id) {
+          this.dataBlog = element;
         }
-      }
+      });
     },
   },
   filters: {
