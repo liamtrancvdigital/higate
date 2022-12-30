@@ -111,6 +111,7 @@ export default {
           this.dataBlog = element;
         }
       });
+      
     },
   },
   filters: {
